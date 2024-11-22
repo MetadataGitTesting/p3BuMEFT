@@ -1,0 +1,57 @@
+name: duncan.jones
+description: composite
+version: 4.21.994
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: duncanjones
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:00:35'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:00:35'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:00:35.511783Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '630518911'
+  createdAt: '2024-11-22T23:00:35.511783Z'
+  type: plibMaven
+projectDependencies:
+  '93':
+    projectUID: 93
+    projectName: glen.kuhn
+    repositoryPath: gitUri=http://gitserver:3000/dev_RD7ELiPG_team_153/dev_RD7ELiPG_project_93.git&subPath=
+    version: glen.kuhn/0.85.483
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:00:33'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
